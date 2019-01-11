@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="keywords" content="JavaScript, variables">
+    <title>Variables in JavaScript</title>
+    <style>
+        body{
+            
+            color: aliceblue;
+            background-color: dodgerblue;
+        }
+    </style>
+</head>
+<body>
+    <h2>My Today's Grossery Bill</h2>
+    <p>What I bought for breakfast.</p>
+        <ul>
+        <li>Bread</li>
+        <li>Milk</li>
+        <li>Fruit</li>
+        </ul>
+    <p id="expenses"></p>
+    <script>
+        var breadPrice = 1.5;
+        var milkPrice = 2.0;
+        var fruitPrice = 5.0;
+        var total = breadPrice + milkPrice + fruitPrice;
+        document.getElementById("expenses").innerHTML = " The total expense for today is euros: " + total;
+    </script>
+    
+</body>
+</html>
