@@ -1,0 +1,29 @@
+body{
+	background-color: lightblue;
+	color: white;
+	margin: 0;
+
+}
+nav{
+	
+	font-family: courier;
+}
+header, footer{
+	background-color: DodgerBlue;
+	padding: 10px;
+	text-align: center;
+
+
+}
+header{
+	text-align: left;
+}
+a{
+	color: red;
+	text-decoration: none;
+}
+a:hover{
+	color: green;
+}
+
+	
