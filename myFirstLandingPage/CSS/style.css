@@ -17,21 +17,29 @@ header{
 #bar{
     background-color: lightcoral;
     color: whitesmoke;
+    border-bottom: 5px solid orange;
 }
 #bar ul{
     list-style: none;
     padding: 0%;
+    float:right;
+
 }
 #bar li{
     display: inline;
+
 
 }
 #bar a{
     color: white;
     text-decoration: none;
     padding-right: 70px;
-    font-size: 20px;
+    font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
+
+}
+#bar a:hover{
+    color:DodgerBlue;
 }
 #design{
     background-image: url('../Images/image1.jpg');
@@ -39,6 +47,7 @@ header{
     min-height:300px;
     margin-bottom:20px;
     text-align: center;
+    border-bottom: 5px solid blue;
 }
 #design h1{
     padding-top: 20px;
