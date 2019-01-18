@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: url(pic1.jpg) no-repeat;
+    background-size: cover;
+
+}
+header{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 16px;
+    margin-top: 0px;
+    padding: 0px;
+}
+.contact-page h2, h3{
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    margin: 2px;
+
+}
+.contact-form{
+    max-width: 600px;
+    margin: auto;
+    padding: 0 10px;
+    overflow: hidden;
+}
+.form-control{
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 16px 0;
+    border: 0;
+    background: lightcyan;
+    padding: 15px 20px;
+    outline: none;
+    color: blue;
+    transition: .5s;
+}
+.form-control:focus{
+    box-shadow: 0 0 10px 5px orangered;
+}
+textarea.form-control{
+    resize: none;
+    height: 80px;
+}
+.form-control-submit{
+    background-color: gold;
+    color: azure;
+    padding: 15px 20px;
+    width: 100%;
+    text-transform: uppercase;
+    border: 0px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+}
+.form-control-submit:hover{
+    background-color: blue;
+}
