@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: rgb(52, 245, 245);
+    text-align: center;
+    padding: 15px;
+}
+header h1 {
+    color: blue;
+}
+.box-container {
+    display: flex;
+    height : 250px;
+    background: lightgrey;
+}
+.box-container #box-1 {
+    background-color: bisque;
+    width: 33.33%;
+    height: 80%;
+    color: darkorange;
+    padding: 10px;
+    text-align: center;
+}
+.box-container #box-2 {
+    background-color: beige;
+    width: 33.33%;
+    height: 80%;
+    color: darkgrey;
+    padding: 10px;
+    text-align: center;
+}
+
+.box-container #box-3 {
+    background-color: bisque;
+    width: 33.33%;
+    height: 80%;
+    color: darkorange;
+    padding: 10px;
+    text-align: center;
+
+}
+
