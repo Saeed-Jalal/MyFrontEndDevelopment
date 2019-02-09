@@ -7,39 +7,39 @@ I am spending everyday 12 hours for learning and practice. I love to code becaus
 ## My Goals are:
 Top Best class, up to date Full Stack-Developer 
 ## My Front-End-Development Goals
-#HTML 5 full stuff
-#CSS3
-#Display: flex; Display: grid; Transitions and Font-face.
-#SASS
-#Responsive and Adaptive layouts
-#JavaScript ES6
-#DOM Manipulation
-#API /Ajax
-#jQuery
-#bootstrap
-#React
-#Redux
-#Flow
-#Webpack
-#App Testing
+HTML 5 full stuff
+CSS3
+Display: flex; Display: grid; Transitions and Font-face.
+SASS
+Responsive and Adaptive layouts
+JavaScript ES6
+DOM Manipulation
+API /Ajax
+jQuery
+bootstrap
+React
+Redux
+Flow
+Webpack
+App Testing
 ## My Back-End-Development Goals
-#JavaScript
-#Node.js
-#Python
-#Flask
-#Django
-#PHP
+JavaScript
+Node.js
+Python
+Flask
+Django
+PHP
 ## DataBase Goals
-#MySQL
-#MongoDB
-##Hosting
-#Google Cloud
-#Microsoft Azure
+MySQL
+MongoDB
+## Hosting
+Google Cloud
+Microsoft Azure
 ## Environment(Server Management) Goals
-#Docker
-#Node.js
+Docker
+Node.js
 ## VC Systems Goals
-#Git
-#Github
+Git
+Github
 
 
